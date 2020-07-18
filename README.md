@@ -13,7 +13,7 @@ This is a Node CLI that takes in information about employees and generates an HT
 
 ![Video Link](https://drive.google.com/file/d/1NWE_iIQXe7EmZNhVUCMR-3VwgIRGoEM5/view)
 
-![Photo1]employeesummary.png
+![Photo1](employeesummary.png)
 
 ## Installation
 Run:
