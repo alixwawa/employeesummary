@@ -29,4 +29,4 @@ The user will be prompted for their GitHub username and other information.
 
 ## Repository
 
-- [Project Repo](https://github.com/hoffman1200/Homework-10)
+- [Project Repo](https://github.com/alixwawa/employeesummary.io)
